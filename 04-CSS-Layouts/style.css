@@ -310,7 +310,7 @@ footer {
   clear: both;
 }
 */
-
+/* FLEXBOX */
 .main-header {
   display: flex;
   align-items: center;
@@ -349,8 +349,8 @@ footer {
   font-weight: normal;
   font-style: italic;
 }
-
-.row {
+/* FLEXBOX LAYOUT */
+/* .row {
   display: flex;
   align-items: flex-start;
   gap: 75px;
@@ -364,4 +364,4 @@ article {
 
 aside {
   flex: 0 0 300px;
-}
+} */
